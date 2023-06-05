@@ -1,0 +1,14 @@
+node_modules/*
+.env
+*cache.json
+*discordGptCache.json
+wechat-assistant.memory-card.json
+.wwebjs_auth/*
+src/stable-difusion/output/img-to-img/*
+src/stable-difusion/output/text-to-img/*
+src/whatsapp/video
+src/whatsapp/voice
+src/aws/*
+src/azure/*
+src/discord/*
+
